@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kickstarter &#8211; StartupBend</title>
+	<atom:link href="/tagged/kickstarter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Fri, 12 Sep 2014 16:56:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/sub_logo_favicon.png</url>
+	<title>kickstarter &#8211; StartupBend</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Built Oregon: Inspirational Stories of Entrepreneurship</title>
+		<link>/articles/built-oregon-inspirational-stories-of-entrepreneurship/</link>
+					<comments>/articles/built-oregon-inspirational-stories-of-entrepreneurship/#respond</comments>
+		
+		<dc:creator><![CDATA[James Gentes]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 16:56:52 +0000</pubDate>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=31395</guid>
+
+					<description><![CDATA[Our friends over in Portland are doing something amazing. Mitch Daugherty (OEN), Terry St. Marie (OAF), and Rick Turoczy (Silicon Florist, PIE) have teamed up to film the innovative spirit of companies throughout Oregon and publish it on a new website that helps connect entrepreneurs across the state.]]></description>
+		
+					<wfw:commentRss>/articles/built-oregon-inspirational-stories-of-entrepreneurship/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bend Entrepreneur Kickstarts Innovative Collapsible Water Bottle</title>
+		<link>/articles/bend-entrepreneur-kickstarts-innovative-collapsible-water-bottle/</link>
+					<comments>/articles/bend-entrepreneur-kickstarts-innovative-collapsible-water-bottle/#comments</comments>
+		
+		<dc:creator><![CDATA[James Gentes]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 16:32:23 +0000</pubDate>
+				<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[crowdfunding]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=31305</guid>
+
+					<description><![CDATA[Niki Singlaub came up with the <a href="http://www.hydawaybottle.com/" target="_blank">Hydaway bottle</a> concept while traveling as a freelance product developer in 2012. "Trying to stay hydrated in different countries, climates, and elevations, while spending time both in business meetings and in the mountains inspired this water bottle concept. I was looking for a durable, stable, fully-functioning water bottle that collapsed enough to fit in my back pocket. I was really surprised I couldn't find anything like the Hydaway bottle out there." His <a href="https://www.kickstarter.com/projects/291569621/hydaway-a-collapsible-water-bottle-fit-for-every-a" target="_blank">Kickstarter campaign</a> reached 25% in just the first week.]]></description>
+		
+					<wfw:commentRss>/articles/bend-entrepreneur-kickstarts-innovative-collapsible-water-bottle/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

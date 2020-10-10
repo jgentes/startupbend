@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#freeadvice &#8211; StartupBend</title>
+	<atom:link href="/tagged/freeadvice/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Fri, 05 Dec 2014 01:05:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/sub_logo_favicon.png</url>
+	<title>#freeadvice &#8211; StartupBend</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Free Advice: Hey Startups, Here&#8217;s How to Get More Press</title>
+		<link>/articles/free-advice-hey-startups-heres-how-to-get-more-press/</link>
+					<comments>/articles/free-advice-hey-startups-heres-how-to-get-more-press/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2014 22:09:55 +0000</pubDate>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[#freeadvice]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=31797</guid>
+
+					<description><![CDATA[It seems like I can’t swing a dead cat (I’ve really been wanting to write that lately) without hitting a [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/free-advice-hey-startups-heres-how-to-get-more-press/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hey Startups: 4 Tips for Inbound Marketing Success</title>
+		<link>/articles/hey-startups-4-tips-for-inbound-marketing-success/</link>
+					<comments>/articles/hey-startups-4-tips-for-inbound-marketing-success/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2014 22:07:24 +0000</pubDate>
+				<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[#freeadvice]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=31481</guid>
+
+					<description><![CDATA[Well you asked for it. More completely unsolicited advice that costs you zero dollars. Next up is Cari Baldwin is president of Bluebird Strategies.The Bend-based marketing automation and demand generation firm serves fast-growing tech companies, including established firms and venture-backed startups. A seasoned demand gen expert, Baldwin has more than two decades of experience in the field. Here is her free advice on why inbound marketing is a critical tool for startups.<br />]]></description>
+		
+					<wfw:commentRss>/articles/hey-startups-4-tips-for-inbound-marketing-success/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Free Advice: 5 Ways to Improve Your Startup Pitch</title>
+		<link>/articles/free-advice-5-ways-to-improve-your-startup-pitch/</link>
+					<comments>/articles/free-advice-5-ways-to-improve-your-startup-pitch/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2014 19:26:32 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[#freeadvice]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=31442</guid>
+
+					<description><![CDATA[Much like new parents, I’m certain that all you entrepreneurs out there love nothing more than completely unsolicited advice. Am I right? Well today is your lucky day. Because we’re debuting a new BendTECH feature called ... wait for it ... Free Advice. <br />]]></description>
+		
+					<wfw:commentRss>/articles/free-advice-5-ways-to-improve-your-startup-pitch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

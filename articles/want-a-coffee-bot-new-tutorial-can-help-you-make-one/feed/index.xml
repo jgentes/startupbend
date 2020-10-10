@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Want a Coffee Bot? New Tutorial Can Help You Make One	</title>
+	<atom:link href="/articles/want-a-coffee-bot-new-tutorial-can-help-you-make-one/feed/" rel="self" type="application/rss+xml" />
+	<link>/articles/want-a-coffee-bot-new-tutorial-can-help-you-make-one/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Tue, 28 Nov 2017 18:15:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: The Future is Here: How Tend.ai Co-Founder Mark Silliman Transformed His Honda into a Self-Driving Car &#124; StartupBend		</title>
+		<link>/articles/want-a-coffee-bot-new-tutorial-can-help-you-make-one/#comment-2321</link>
+
+		<dc:creator><![CDATA[The Future is Here: How Tend.ai Co-Founder Mark Silliman Transformed His Honda into a Self-Driving Car &#124; StartupBend]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2017 18:15:37 +0000</pubDate>
+		<guid isPermaLink="false">http://bendtech.com/?p=32073#comment-2321</guid>
+
+					<description><![CDATA[[&#8230;] Mark purchased a 2017 Honda Civic in the name of research. Drawing on an open source project called comma.ai, he used software to transform the Civic into an autonomous vehicle &#8220;optimized for Oregon roads.&#8221; Side note: This is not the first time Mark has spearheaded a cool project. Check out his past work on the turtlebot. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Mark purchased a 2017 Honda Civic in the name of research. Drawing on an open source project called comma.ai, he used software to transform the Civic into an autonomous vehicle &#8220;optimized for Oregon roads.&#8221; Side note: This is not the first time Mark has spearheaded a cool project. Check out his past work on the turtlebot. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Laura		</title>
+		<link>/articles/want-a-coffee-bot-new-tutorial-can-help-you-make-one/#comment-714</link>
+
+		<dc:creator><![CDATA[Laura]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 22:09:25 +0000</pubDate>
+		<guid isPermaLink="false">http://bendtech.com/?p=32073#comment-714</guid>
+
+					<description><![CDATA[I have a question. Is there a tutorial for hacking into someone else&#039;s robot (for example, a robot located a floor above you) and reprogramming their robot bring you coffee? Because I&#039;d like to see that tutorial. Purely academic reasons.]]></description>
+			<content:encoded><![CDATA[<p>I have a question. Is there a tutorial for hacking into someone else&#8217;s robot (for example, a robot located a floor above you) and reprogramming their robot bring you coffee? Because I&#8217;d like to see that tutorial. Purely academic reasons.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

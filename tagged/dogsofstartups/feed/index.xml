@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#dogsofstartups &#8211; StartupBend</title>
+	<atom:link href="/tagged/dogsofstartups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Mon, 13 Apr 2015 18:35:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/sub_logo_favicon.png</url>
+	<title>#dogsofstartups &#8211; StartupBend</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#dogsofstartups: Sage @Odysys Doesn&#8217;t Do Business Casual OK?</title>
+		<link>/articles/dogsofstartups-sage-odysys-doesnt-do-business-casual-ok/</link>
+					<comments>/articles/dogsofstartups-sage-odysys-doesnt-do-business-casual-ok/#comments</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2015 18:35:41 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[#dogsofstartups]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32294</guid>
+
+					<description><![CDATA[Hello beloved readers! Not surprisingly, people are loving seeing pics of #dogsofstartups #inbend. Moses, Ti and Jax pert near broke [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/dogsofstartups-sage-odysys-doesnt-do-business-casual-ok/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#Dogsofstartups: Meet Moses, Ti and Jax</title>
+		<link>/articles/dogsofstartups-meet-moses-ti-and-jax/</link>
+					<comments>/articles/dogsofstartups-meet-moses-ti-and-jax/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2015 18:31:26 +0000</pubDate>
+				<category><![CDATA[General News]]></category>
+		<category><![CDATA[#dogsofstartups]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32261</guid>
+
+					<description><![CDATA[It&#8217;s Monday. So I&#8217;m putting dogs on the blog. But not just any dogs. The best, most supportive startup dogs [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/dogsofstartups-meet-moses-ti-and-jax/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#DogsofStartups: Behind Every Good Startup is &#8230; a Dog</title>
+		<link>/articles/dogsofstartups-behind-every-good-startup-is-a-dog/</link>
+					<comments>/articles/dogsofstartups-behind-every-good-startup-is-a-dog/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2015 23:01:52 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[#dogsofstartups]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32234</guid>
+
+					<description><![CDATA[No where is that statement more true than here in good old Bend, where I&#8217;m pretty sure dogs out number [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/dogsofstartups-behind-every-good-startup-is-a-dog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tierney O&#8217;Dea &#8211; StartupBend</title>
+	<atom:link href="/articles/author/todea/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Tue, 17 Nov 2015 23:27:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/sub_logo_favicon.png</url>
+	<title>Tierney O&#8217;Dea &#8211; StartupBend</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Maps + Computers + Beer = MapNight @ BendTECH!</title>
+		<link>/articles/mapnight/</link>
+					<comments>/articles/mapnight/#respond</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 19:59:01 +0000</pubDate>
+				<category><![CDATA[Economic Development]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=33127</guid>
+
+					<description><![CDATA[Join us for MapNight @ BendTECH 11/18 5pm, a local event for GIS Day, a global celebration! What is GIS? Unless you are kicking it old school with a handwritten dead-tree map, most of the maps we use today on smartphones, computers, and even printed, are a result of Geographic Information Systems (GIS). We can use a GIS like Google Maps to find our way around, but it can do much more. [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/mapnight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BendTECH Coworking Evolves + Tech Talk This Week</title>
+		<link>/articles/bendtech-coworking/</link>
+					<comments>/articles/bendtech-coworking/#comments</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2015 21:03:56 +0000</pubDate>
+				<category><![CDATA[Co-working]]></category>
+		<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=33021</guid>
+
+					<description><![CDATA[The first question people ask when you arrive in Central Oregon is “what do you do?” because it’s somewhat of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/bendtech-coworking/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Volcano Veggies Wins $26k from Wells Fargo Works Project</title>
+		<link>/articles/volcano-veggies-wins-26k-from-wells-fargo-works-project/</link>
+					<comments>/articles/volcano-veggies-wins-26k-from-wells-fargo-works-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2015 18:51:59 +0000</pubDate>
+				<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32903</guid>
+
+					<description><![CDATA[As we blogged here back in July, last year&#8217;s BVC concept stage winner and aquaponics startup Volcano Veggies was in the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/volcano-veggies-wins-26k-from-wells-fargo-works-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Electronics Manufacturing Company SisTech Keeps It Local</title>
+		<link>/articles/electronics-manufacturing-company-sistech-keeps-it-local/</link>
+					<comments>/articles/electronics-manufacturing-company-sistech-keeps-it-local/#comments</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2015 19:36:31 +0000</pubDate>
+				<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32716</guid>
+
+					<description><![CDATA[In your dreams, you&#8217;ve designed the NEXT BIG THING, raised more than you ever hoped on Kickstarter, and life is [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/electronics-manufacturing-company-sistech-keeps-it-local/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vote for Volcano Veggies to Win the Wells Fargo Works Project</title>
+		<link>/articles/vote-for-volcano-veggies-to-win-the-wells-fargo-works-project/</link>
+					<comments>/articles/vote-for-volcano-veggies-to-win-the-wells-fargo-works-project/#comments</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2015 20:57:49 +0000</pubDate>
+				<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32673</guid>
+
+					<description><![CDATA[Volcano Veggies &#8211; the local, organic, indoor aquaponic startup needs our help for their entry in the Wells Fargo Works Project. The [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/vote-for-volcano-veggies-to-win-the-wells-fargo-works-project/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

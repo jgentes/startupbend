@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Impart Your Wisdom! OSU Cascades Seeks Part-Time Comp Sci Teachers	</title>
+	<atom:link href="/articles/impart-your-wisdom-osu-cascades-seeks-part-time-comp-sci-teachers/feed/" rel="self" type="application/rss+xml" />
+	<link>/articles/impart-your-wisdom-osu-cascades-seeks-part-time-comp-sci-teachers/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Thu, 12 Nov 2015 22:42:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: Bender		</title>
+		<link>/articles/impart-your-wisdom-osu-cascades-seeks-part-time-comp-sci-teachers/#comment-1923</link>
+
+		<dc:creator><![CDATA[Bender]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 22:42:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=33132#comment-1923</guid>
+
+					<description><![CDATA[Python is popular, but sadly it&#039;s not the most employable skill.  It reminds me of COCC classes that recently taught Microsoft Access classes (begging the question &quot;but why?&quot;)
+
+Look at the job postings on the right.  Lots of .NET jobs, some PHP, Ruby, and Node.js.  No Python.  OSU-Cascades might consider at least teaching in a syntactically similar language to what is employable, such as Java, javascript, or C#.  
+
+Point being to exploit what&#039;s employable here in the USA for higher paid jobs, vs. what is being used in third world countries where your skills compete with $10/hour code minions.]]></description>
+			<content:encoded><![CDATA[<p>Python is popular, but sadly it&#8217;s not the most employable skill.  It reminds me of COCC classes that recently taught Microsoft Access classes (begging the question &#8220;but why?&#8221;)</p>
+<p>Look at the job postings on the right.  Lots of .NET jobs, some PHP, Ruby, and Node.js.  No Python.  OSU-Cascades might consider at least teaching in a syntactically similar language to what is employable, such as Java, javascript, or C#.  </p>
+<p>Point being to exploit what&#8217;s employable here in the USA for higher paid jobs, vs. what is being used in third world countries where your skills compete with $10/hour code minions.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

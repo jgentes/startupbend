@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: E::Space Labs Hosts Grand Opening Oct. 18	</title>
+	<atom:link href="/articles/espace-labs-hosts-grand-opening-oct-18/feed/" rel="self" type="application/rss+xml" />
+	<link>/articles/espace-labs-hosts-grand-opening-oct-18/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Fri, 09 Oct 2015 18:14:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		By: Mike Kentley		</title>
+		<link>/articles/espace-labs-hosts-grand-opening-oct-18/#comment-1903</link>
+
+		<dc:creator><![CDATA[Mike Kentley]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2015 18:14:20 +0000</pubDate>
+		<guid isPermaLink="false">http://bendtech.com/?p=32966#comment-1903</guid>
+
+					<description><![CDATA[My son is taking a 3D CAD class at E::Space this month and is learning a lot quickly.  I am excited to try out some of their other offering.]]></description>
+			<content:encoded><![CDATA[<p>My son is taking a 3D CAD class at E::Space this month and is learning a lot quickly.  I am excited to try out some of their other offering.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spotlight &#8211; StartupBend</title>
+	<atom:link href="/topics/startups/spotlight/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Thu, 20 Oct 2016 18:03:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>/wp-content/uploads/sub_logo_favicon.png</url>
+	<title>Spotlight &#8211; StartupBend</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#julieselfie: Five Talent CEO on What Bend Needs to Grow Smart + Advice to His 25-Year-Old Self</title>
+		<link>/articles/julieselfie-five-talent-ceo-on-what-bend-needs-to-grow-smart-advice-to-his-25-year-old-self/</link>
+					<comments>/articles/julieselfie-five-talent-ceo-on-what-bend-needs-to-grow-smart-advice-to-his-25-year-old-self/#comments</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2016 18:03:23 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">/?p=34169</guid>
+
+					<description><![CDATA[Julie Harrelson, CEO of the Harrelson Group, Fund Manager of Cascade Angels, has a beloved penchant for taking selfies with [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/julieselfie-five-talent-ceo-on-what-bend-needs-to-grow-smart-advice-to-his-25-year-old-self/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Craft CMS Finds Web Dev Sweet Spot: No More Chicken Nuggets for You</title>
+		<link>/articles/craft-cms-finds-web-dev-sweet-spot-no-more-chicken-nuggets-for-you/</link>
+					<comments>/articles/craft-cms-finds-web-dev-sweet-spot-no-more-chicken-nuggets-for-you/#respond</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2016 19:47:13 +0000</pubDate>
+				<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">/?p=34022</guid>
+
+					<description><![CDATA[I love a good metaphor. So when the team at Craft CMS—a tech company mostly new to Bend—compared one of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/craft-cms-finds-web-dev-sweet-spot-no-more-chicken-nuggets-for-you/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Back it Like it&#8217;s Hot: Bend Inventor Debuts Fireside Audiobox on Kickstarter</title>
+		<link>/articles/back-it-like-its-hot-bend-inventor-debuts-fireside-audiobox-on-kickstarter/</link>
+					<comments>/articles/back-it-like-its-hot-bend-inventor-debuts-fireside-audiobox-on-kickstarter/#comments</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2016 19:57:45 +0000</pubDate>
+				<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">/?p=33978</guid>
+
+					<description><![CDATA[Coming in hot from the land of things-you-didn&#8217;t-know-you-needed-but-now-must-have is a Bluetooth-enabled, speaker featuring flames that dance to the beat of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/back-it-like-its-hot-bend-inventor-debuts-fireside-audiobox-on-kickstarter/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		<enclosure url="https://ksr-video.imgix.net/projects/908566/video-690124-h264_high.mp4" length="10462090" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Electronics Manufacturing Company SisTech Keeps It Local</title>
+		<link>/articles/electronics-manufacturing-company-sistech-keeps-it-local/</link>
+					<comments>/articles/electronics-manufacturing-company-sistech-keeps-it-local/#comments</comments>
+		
+		<dc:creator><![CDATA[Tierney O'Dea]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2015 19:36:31 +0000</pubDate>
+				<category><![CDATA[Local Tech]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32716</guid>
+
+					<description><![CDATA[In your dreams, you&#8217;ve designed the NEXT BIG THING, raised more than you ever hoped on Kickstarter, and life is [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/electronics-manufacturing-company-sistech-keeps-it-local/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#50startups: How Hydaway Won Kickstarter and What’s Next</title>
+		<link>/articles/50startups-how-hydaway-won-kickstarter-and-whats-next/</link>
+					<comments>/articles/50startups-how-hydaway-won-kickstarter-and-whats-next/#comments</comments>
+		
+		<dc:creator><![CDATA[Kelly Kearsley]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2015 17:41:46 +0000</pubDate>
+				<category><![CDATA[#50startups]]></category>
+		<category><![CDATA[Founder Q&A]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">http://bendtech.com/?p=32391</guid>
+
+					<description><![CDATA[Niki Singlaub travels a lot for work and wanted a water bottle that folded to fit into his pocket while [&#8230;]]]></description>
+		
+					<wfw:commentRss>/articles/50startups-how-hydaway-won-kickstarter-and-whats-next/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Guess What? You Can Now Order a kidRunner	</title>
+	<atom:link href="/articles/guess-what-you-can-now-order-a-kidrunner/feed/" rel="self" type="application/rss+xml" />
+	<link>/articles/guess-what-you-can-now-order-a-kidrunner/</link>
+	<description>Central Oregon&#039;s Startup Community</description>
+	<lastBuildDate>Tue, 29 Sep 2015 19:27:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+</channel>
+</rss>
